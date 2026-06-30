@@ -64,15 +64,25 @@ Designed a clean and professional dashboard layout.
 <img width="1254" height="1254" alt="Finance dashboard" src="https://github.com/user-attachments/assets/d5703a00-00e5-47a9-8731-845de888ce96" />
 
 ## Dashboard Features
-KPI Cards (Revenue, Profit, Cash Flow, Expenses, Profit Margin)
-Revenue Trend Line Chart
-Monthly Profit Column Chart
-Assets vs Liabilities Donut Chart
-Cash Flow Trend
-Waterfall Chart for Cash Flow Breakdown
-Financial Ratio Summary
-Quarterly Revenue Comparison
-Net Profit Margin Trend
-Key Insights Panel
-Year Slicer
+1.KPI Cards (Revenue, Profit, Cash Flow, Expenses, Profit Margin)
+
+2.Revenue Trend Line Chart
+
+3.Monthly Profit Column Chart
+
+4.Assets vs Liabilities Donut Chart
+
+5.Cash Flow Trend
+
+6.Waterfall Chart for Cash Flow Breakdown
+
+7.Financial Ratio Summary
+
+8.Quarterly Revenue Comparison
+
+9.Net Profit Margin Trend
+
+10.Key Insights Panel
+
+11.Year Slicer
 
