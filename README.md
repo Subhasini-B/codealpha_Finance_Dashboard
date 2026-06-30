@@ -63,7 +63,7 @@ Designed a clean and professional dashboard layout.
 ## Dashboard 
 <img width="1254" height="1254" alt="Finance dashboard" src="https://github.com/user-attachments/assets/d5703a00-00e5-47a9-8731-845de888ce96" />
 
-## Dashboard Features
+## Project Insights
 1.KPI Cards (Revenue, Profit, Cash Flow, Expenses, Profit Margin)
 
 2.Revenue Trend Line Chart
