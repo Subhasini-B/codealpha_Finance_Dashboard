@@ -27,25 +27,40 @@ Cash Flow
 
 
 ## Business Questions (KPIs)
-What is the total revenue?
-What is the total net profit?
-What are the total operating expenses?
-What is the total cash flow?
-What is the profit margin?
-How does revenue change month by month?
-How does net profit change over time?
-What is the ratio of assets to liabilities?
-Which month generated the highest profit?
-What financial insights can support business growth?
+1.What is the total revenue?
+
+2.What is the total net profit?
+
+3.What are the total operating expenses?
+
+4.What is the total cash flow?
+
+5.What is the profit margin?
+
+6.How does revenue change month by month?
+
+7.How does net profit change over time?
+
+8.What is the ratio of assets to liabilities?
+
+9.Which month generated the highest profit?
+
+10.What financial insights can support business growth?
 
 
 ##Process
-Created a financial dataset in Microsoft Excel.
-Imported the dataset into Power BI Desktop.
-Cleaned and verified the data using Power Query.
-Created DAX measures for KPIs.
-Built interactive visualizations using charts, KPI cards, and slicers.
-Added filters for easy analysis.
+1.Created a financial dataset in Microsoft Excel.
+
+2.Imported the dataset into Power BI Desktop.
+
+3.Cleaned and verified the data using Power Query.
+
+4.Created DAX measures for KPIs.
+
+5.Built interactive visualizations using charts, KPI cards, and slicers.
+
+6.Added filters for easy analysis.
+
 Designed a clean and professional dashboard layout.
 
 
