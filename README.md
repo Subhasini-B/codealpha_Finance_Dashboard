@@ -86,3 +86,6 @@ Designed a clean and professional dashboard layout.
 
 11.Year Slicer
 
+## Conclusion
+The Financial Health Dashboard transforms financial data into meaningful insights using interactive visuals and KPI cards. It enables efficient monitoring of revenue, expenses, profit, assets, liabilities, and cash flow, supporting informed financial analysis and better business decision-making.
+
