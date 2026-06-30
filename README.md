@@ -57,6 +57,11 @@ The dataset was created in Microsoft Excel and contains monthly financial record
 
 Designed a clean and professional dashboard layout.
 
+## Dashboard interaction
+<a href="https://github.com/Subhasini-B/codealpha_Finance_Dashboard/blob/main/Finance%20dashboard.jpeg">Finance dashboard</a>
+
+## Dashboard 
+<img width="1254" height="1254" alt="Finance dashboard" src="https://github.com/user-attachments/assets/d5703a00-00e5-47a9-8731-845de888ce96" />
 
 ## Dashboard Features
 KPI Cards (Revenue, Profit, Cash Flow, Expenses, Profit Margin)
