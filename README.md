@@ -2,11 +2,11 @@
 The Financial Health Dashboard is an interactive Power BI solution that analyzes key financial metrics, including revenue, expenses, profit, assets, liabilities, and cash flow. It provides actionable insights through dynamic visualizations and KPI cards, enabling effective financial monitoring and data-driven decision-making.
 
 # Project Objective
-Analyze the company's financial performance over a one-year period.
-Monitor revenue, expenses, net profit, and cash flow.
-Compare assets and liabilities.
-Identify financial trends for better planning and decision-making.
-Create an interactive dashboard that is simple, informative, and easy to use.
+-Analyze the company's financial performance over a one-year period.
+-Monitor revenue, expenses, net profit, and cash flow.
+-Compare assets and liabilities.
+-Identify financial trends for better planning and decision-making.
+-Create an interactive dashboard that is simple, informative, and easy to use.
 
 
 ##Dataset Used
