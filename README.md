@@ -15,15 +15,8 @@ The Financial Health Dashboard is an interactive Power BI solution that analyzes
 
 ## Dataset 
 The dataset was created in Microsoft Excel and contains monthly financial records for one financial year.
-Dataset Columns
-Month
-Revenue
-Cost of Goods Sold (COGS)
-Operating Expenses
-Net Profit
-Assets
-Liabilities
-Cash Flow
+
+-<a href="https://github.com/Subhasini-B/codealpha_Finance_Dashboard/blob/main/Financial_data.xlsx">Finance data</a>
 
 
 ## Business Questions (KPIs)
